@@ -1,0 +1,14 @@
+name: EasyRegisterLG
+main: RimVG\wreg\LicenseRimVG
+author: RimVG ##// Please do not steal & delete the author \\##
+version: 1.0.0
+api: 5.0.0
+description: The Easy Register plugin is fast and makes it easy for players to log in and register
+permissions:
+   register.cmd:
+      default: true
+   login.cmd:
+      default: true
+   loginmc.cmd:
+      default: op
+## Don't change anything strange if you don't want error! ##
