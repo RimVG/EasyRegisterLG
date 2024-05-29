@@ -23,7 +23,7 @@ class LicenseRimVG extends PluginBase implements Listener{
 		$this->getServer()->getCommandMap()->register("/register", new RimVGData($this));
 		$this->getServer()->getCommandMap()->register("/login", new LoginRimVG($this));
 		$this->getServer()->getCommandMap()->register("/loginmc", new RimVGPass($this));
-		$this->getLogger()->notice("§c§lEasyRegisterLG plugin has been successfully activated!");
+		$this->getLogger()->notice("EasyRegisterLG plugin has been successfully activated!");
 	}
 	
 	public function onJoin(PlayerJoinEvent $ev){
