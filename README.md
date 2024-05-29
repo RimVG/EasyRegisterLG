@@ -11,7 +11,7 @@ When logging in and registering
 /register
 
 ### Download
-[Click Here To Download](https://poggit.pmmp.io/ci/RimVG/MServersUI/~)
+[Click Here To Download](https://poggit.pmmp.io/ci/RimVG/EasyRegisterLG/~)
 
 ### Version
 1.0.0
