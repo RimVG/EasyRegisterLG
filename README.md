@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/RimVG/EasyRegisterLG/blob/808500f6f95ffd757fe9c52eaa51c4f4a7e38e9b/icon.png?raw=true" alt="Logo" width="256" height="80">
+  <img src="https://github.com/RimVG/EasyRegisterLG/blob/808500f6f95ffd757fe9c52eaa51c4f4a7e38e9b/icon.png?raw=true" alt="Logo" width="256" height="140">
   <h3>RimVG</h3>
   <p align="center">
 
